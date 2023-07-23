@@ -1,0 +1,1 @@
+class-based viewとfunction-based viewの違いについて
